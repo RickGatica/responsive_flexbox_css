@@ -1,0 +1,14 @@
+@media only screen and (min-width: 374px) and (max-width: 639px) {
+  body {
+    background-size: auto;
+  }
+  .contenedor {
+    flex-direction: column;
+  }
+
+  .contenedor__mensaje,
+  .form {
+    width: 95%;
+    margin: 0 auto;
+  }
+}
